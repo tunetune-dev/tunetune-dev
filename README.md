@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shun Watanabe</h1>
 <h3 align="center">A passionate frontend developer from Japan</h3>
 
-- 📝 My portfolio is  [https://webtune.site/](https://webtune.site/)
-- 📝 I regularly write articles on [https://sw-portfolio-three.vercel.app/](https://sw-portfolio-three.vercel.app/)
+- 📝 My portfolio is  [https://sw-portfolio-three.vercel.app/](https://sw-portfolio-three.vercel.app/)
+- 📝 I regularly write articles on [https://webtune.site/](https://webtune.site/)
 
 
 <h3 align="left">Languages and Tools:</h3>
