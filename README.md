@@ -4,5 +4,5 @@
 - 📝 My portfolio is  [https://sw-portfolio-three.vercel.app/](https://sw-portfolio-three.vercel.app/)
 - 📝 I regularly write articles on [https://webtune.site/](https://webtune.site/)
 
-<h3>My Favarite</h3>
-<p align="left">animation/Three.js/glsl/React/Next.js</p>
+<h3>My Skills</h3>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,svg,js,ts,php,react,redux,nextjs,vite,docker,wordpress)](https://skillicons.dev)
